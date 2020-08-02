@@ -21,4 +21,4 @@ The project is based on the design, manufacture and characterization of an elect
 
 ## License
 
-This project is under Creative Commons. Please see [License] (LICENSE) for more details
+This project is under Creative Commons. Please see [LICENSE.md](LICENSE.md) for more details
