@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PFI.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: unsrtnat.bst
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: titlepage.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: software.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: gracias.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Objetivos.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: MarcoTeorico.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: Desarrollo.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: MedicionesYResultados.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Conclusiones.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: apendiceA.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: apendiceB.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: bibliografia.bib
+You've used 23 entries,
+            2481 wiz_defined-function locations,
+            687 strings with 7736 characters,
+and the built_in function-call counts, 6159 in all, are:
+= -- 543
+> -- 162
+< -- 26
++ -- 92
+- -- 46
+* -- 306
+:= -- 1021
+add.period$ -- 73
+call.type$ -- 23
+change.case$ -- 50
+chr.to.int$ -- 23
+cite$ -- 23
+duplicate$ -- 403
+empty$ -- 647
+format.name$ -- 70
+if$ -- 1320
+int.to.chr$ -- 1
+int.to.str$ -- 24
+missing$ -- 20
+newline$ -- 127
+num.names$ -- 66
+pop$ -- 209
+preamble$ -- 1
+purify$ -- 23
+quote$ -- 0
+skip$ -- 226
+stack$ -- 0
+substring$ -- 78
+swap$ -- 56
+text.length$ -- 4
+text.prefix$ -- 1
+top$ -- 0
+type$ -- 140
+warning$ -- 0
+while$ -- 47
+width$ -- 0
+write$ -- 308

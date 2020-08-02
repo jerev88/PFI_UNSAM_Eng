@@ -1,0 +1,62 @@
+\documentclass[a4paper,twoside,numbers,spanish]{clases}
+
+%% Paquetes adicionales requeridos
+\usepackage{multirow}
+\usepackage{float}
+
+%% # Portada #
+\author{Jeremias Vozzi}
+\title{Electrochemical biosensor on flexible substrate using functional printed electronics}
+\degree{Electronic Engineer}
+\supervisor{\begin{tabular}{c @{\hspace{1,6cm}} c @{\hspace{1,6cm}} c}
+Dr. Eng. Liliana Fraigi & Eng. Mijal Mass & ID. Mariano Roberti\\
+lilifraigi$@$gmail.com & mmass$@$gmail.com & roberti.mariano$@$gmail.com\\
+\end{tabular}
+\begin{tabular}{c}
+Centro de Micro y Nanoelectr\'onica del Bicentenario\\
+Instituto Nacional de Tecnolog\'ia Industrial\\
+San Martín, Buenos Aires, Argentina\\
+\end{tabular}
+}
+\institution{Universidad Nacional de San Mart\'in}
+\faculty{Escuela de Ciencia y Tecnolog\'ia}
+
+%%Margenes del documento #
+\geometry{top=20mm,bottom=40mm,inner=40mm,outer=25mm}
+
+\hyperlinking
+
+\begin{document}
+\renewcommand{\chaptername}{Chapter}
+\renewcommand{\contentsname}{Table of Contents}
+\renewcommand{\listfigurename}{List of Figures}
+\renewcommand{\figurename}{Figure}
+%% # Portada de la tesis #
+\include{titlepage}
+
+\include{software}
+
+%% # Prefacios #
+\include{gracias}
+
+%% # Indices y listas de contenido #
+\tableofcontents
+\listoffigures
+
+%% # Capitulos #
+\include{Objetivos}
+\include{MarcoTeorico}
+\include{Desarrollo}
+\include{MedicionesYResultados}
+\include{Conclusiones}
+
+%% # Apendices de la tesis #
+\appendix
+\renewcommand{\appendixname}{Anexo}
+\include{apendiceA}
+\include{apendiceB}
+
+%% # Bibliografia #
+\bibliography{bibliografia}
+
+\end{document}

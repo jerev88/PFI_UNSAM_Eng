@@ -1,0 +1,45 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Acknowledgments}{3}{section*.1}%
+\contentsline {chapter}{\numberline {1}Objectives}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}General Objectives}{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Specific Objectives}{12}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Theoretical Framework}{14}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Sensors, transducers and biosensors}{14}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Functional Printed Electronics}{17}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Inkjet printer}{18}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Gold nanoparticles ink}{21}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Photo-definable dielectric ink SU-8}{22}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}\textit {Valox} substrate}{22}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Characterization techniques}{23}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Electrical Characterization}{23}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Optical/Dimensional Characterization}{24}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Electrochemical Characterization}{25}{subsection.2.3.3}%
+\contentsline {chapter}{\numberline {3}Experimental development}{28}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Preparation of image patterns}{28}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Preliminary measurements}{28}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Print pattern designs}{30}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Printer setup and calibration}{31}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Prints}{36}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Characterizations}{41}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Electrical characterization}{41}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Dimensional characterization}{41}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Electrochemical characterization}{43}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Photo-definable dielectric ink}{46}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Design}{46}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Ink cartridge preparation}{47}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Printer setup and calibration}{48}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Prints}{48}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Characterizations}{50}{subsection.3.5.5}%
+\contentsline {chapter}{\numberline {4}Mediciones y Resultados}{51}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Caracterización eléctrica}{51}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Dimensional characterization}{52}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Caracterización electroquímica}{53}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Conclusions}{58}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusions of the carried out work}{58}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Future work}{59}{section.5.2}%
+\contentsline {chapter}{\numberline {A}Configuración de impresora}{60}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Ink cartridge preparation}{62}{section.Alph1.1}%
+\contentsline {section}{\numberline {A.2}Substrate clamping and platen configuration}{67}{section.Alph1.2}%
+\contentsline {chapter}{\numberline {B}Project closure process}{69}{appendix.Alph2}%
+\contentsline {section}{\numberline {B.1}Learned lessons}{69}{section.Alph2.1}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{70}{section*.5}%
